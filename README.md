@@ -8,7 +8,8 @@ This project analyzes conversion trends at both the **store** and **SKU** (produ
 
 The dataset includes transaction-level data for various stores and SKUs with the following features:
 </br>
-https://drive.google.com/file/d/1vfXAP0iPUrItvC9LEyH8yZtqYP7n2FMA/view?usp=drivesdk
+[Dataset](https://drive.google.com/file/d/1vfXAP0iPUrItvC9LEyH8yZtqYP7n2FMA/view?usp=drivesdk)
+
 
 - `Store ID`
 - `SKU ID`
