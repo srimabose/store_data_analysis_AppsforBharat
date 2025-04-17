@@ -36,7 +36,4 @@ The dataset includes transaction-level data for various stores and SKUs with the
 - **Python** (Pandas, Seaborn, Matplotlib)
 - **Power BI** *(dashboard to be added below)*
 
----
-
-## 📁 Project Structure
 
